@@ -66,3 +66,4 @@ Finally, the script runs the Dash server using `app.run(debug=True)`. When execu
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e4cb573c-5f3a-484b-80dd-a9e469d8e299)
